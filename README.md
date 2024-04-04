@@ -7,10 +7,15 @@ Dataset
 The schools.csv dataset includes the following columns:
 
 School ID: Unique identifier for each school.
+
 Borough: The borough in which the school is located.
+
 Reading Score: SAT reading score (max 800).
+
 Math Score: SAT math score (max 800).
+
 Writing Score: SAT writing score (max 800).
+
 
 
 Key Questions
