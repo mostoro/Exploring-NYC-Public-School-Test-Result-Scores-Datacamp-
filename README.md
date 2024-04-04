@@ -17,5 +17,8 @@ Key Questions
 The analysis aims to answer the following key questions:
 
 Best_math_schools
+
 Which school has the highest average SAT score?
+
 Which borough has the largest standard deviation in the combined SAT score?
+
