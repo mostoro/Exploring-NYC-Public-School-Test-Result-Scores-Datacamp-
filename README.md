@@ -11,9 +11,11 @@ Borough: The borough in which the school is located.
 Reading Score: SAT reading score (max 800).
 Math Score: SAT math score (max 800).
 Writing Score: SAT writing score (max 800).
+
+
 Key Questions
 The analysis aims to answer the following key questions:
 
+Best_math_schools
 Which school has the highest average SAT score?
-What is the average SAT score for each borough?
 Which borough has the largest standard deviation in the combined SAT score?
